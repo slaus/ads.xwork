@@ -1,15 +1,15 @@
 <?php
 	$mail_type = 'ce';
 	//-----------------------------------------------------------------------------------------
-    $to_Email       = 'admin@xwork.site'; //Replace with recipient email address
-    $subject        = 'Order from ads.xwork.site'; //Subject line for emails
+    $to_Email       = 'seo@xwork.site'; //Replace with recipient email address
+    $subject        = 'Заказ услуги с сайта seo.xwork.site'; //Subject line for emails
 
     // your recaptcha secret key
-    $secret = '';      // Add your reCAPTCHA secret key
+    $secret = '6Le5xFkUAAAAAMwUDOxaCFeExmEPo6LK3BgrCKLH';      // Add your reCAPTCHA secret key
     //-----------------------------------------------------------------------------------------
 
     // Language
-    $language = 'EN';
+    $language = 'RU';
 
     /* Mailchimp setting */
     define('MC_APIKEY', ''); // Your API key from here - http://admin.mailchimp.com/account/api
